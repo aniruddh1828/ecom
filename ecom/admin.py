@@ -1,5 +1,5 @@
 from django.contrib import admin
-from ecom.models import Product,Cart,Buy
+from .models import Product,Cart,Buy
 
 # Register your models here.
 
